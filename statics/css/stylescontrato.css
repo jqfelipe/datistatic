@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f7fa;
+}
+
+header {
+  background: #0b3d91;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+}
+
+.pdf-container {
+  height: calc(100vh - 70px);
+}
+
+iframe {
+  border: none;
+}
